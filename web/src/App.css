@@ -5,15 +5,16 @@
 }
 
 body {
-  background-color: linear-gradient(180deg, #14120D 0%, rgba(24, 19, 9, 0.9) 64.03%);
+  height: 100vh;
+  background: linear-gradient(180deg, #14120D 0%, rgba(24, 19, 9, 0.9) 64.03%) no-repeat;
   color: #FFF;
   --type-first: "Walter Turncoat", sans-serif;
   font-family: var(--type-first);
-  font-weight: 1.125rem;
+  font-size: 1.125rem;
 }
 
 h1, h2 {
-  font-weight: 1.5rem;
+  font-size: 1.5rem;
   text-transform: uppercase;
 }
 

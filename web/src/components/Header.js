@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom'
 import {ReactComponent as Garfo} from '../Assets/garfo.svg';
 import {ReactComponent as Taca} from '../Assets/taca.svg';
 import {ReactComponent as Colher} from '../Assets/colher.svg';
@@ -10,26 +10,24 @@ import styles from './Header.module.css';
 const  Header = () => {
    return (
       <header className={styles.header}>
-         <Logo />
-         <nav className="container">
-            <li>
-               <Link to="/">
+         <Link to="/" className={styles.logo}>
+            <Logo />
+         </Link>
+         <nav className={styles.nav}>
+               <NavLink to="/" end activeClassName={styles.active}>
                   <Garfo />
                   Ementa
-               </Link>
-            </li>
-            <li>
-               <Link to="/Bebidas">
+               </NavLink>
+
+               <NavLink to="/bebidas" activeClassName={styles.active}>
                   <Taca />
                   Bebidas
-               </Link>
-            </li>
-            <li>
-               <Link to="/Sobremesas">
+               </NavLink>
+
+               <NavLink to="/sobremesas" activeClassName={styles.active}>
                   <Colher />
                   Sobremesas
-               </Link>
-            </li>
+               </NavLink>
          </nav>
       </header>
    )
