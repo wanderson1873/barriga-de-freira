@@ -5,20 +5,19 @@
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   background: linear-gradient(180deg, #14120D 0%, rgba(24, 19, 9, 0.9) 64.03%) no-repeat;
   color: #FFF;
   --type-first: "Walter Turncoat", sans-serif;
   font-family: var(--type-first);
   font-size: 1.125rem;
+  letter-spacing: 0.04rem;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-size: 1.5rem;
   text-transform: uppercase;
-}
-
-h1, h2, h3, h4, p {
+  font-weight: 400;
   margin: 0
 }
 
@@ -45,6 +44,36 @@ a {
 
 .container {
   max-width: 635px;
-  padding: 0 1rem;
+  padding: 25px 10px;
   margin: 0 auto;
+  margin-top: 70px;
+}
+
+.container h1 {
+  margin-bottom: 1rem;
+}
+
+.container .title {
+  text-transform: uppercase;
+  font-weight: 1.5rem;
+  margin: 1rem 0;
+}
+
+.container ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.container ul li span {
+  display: block;
+  font-size: 0.8rem;
+  color: rgb(238, 234, 234);
+
+}
+
+.container ul li.name::before {
+  content: "-";
+  margin-right: 5px;
+  display: inline-block;
 }

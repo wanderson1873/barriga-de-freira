@@ -15,7 +15,7 @@ const  Header = () => {
          </Link>
          <nav className={styles.nav}>
                <NavLink to="/" end activeClassName={styles.active}>
-                  <Garfo />
+                  <Garfo className="icon"/>
                   Ementa
                </NavLink>
 

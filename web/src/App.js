@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Ementa from './components/Ementa';
 import Bebidas from './components/Bebidas';
 import Sobremesas from './components/Sobremesas';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
                 <Route path="/sobremesas" element={<Sobremesas />} />
             </Routes>
           </main>
+          <Footer />
       </BrowserRouter>
     </div>
   )
