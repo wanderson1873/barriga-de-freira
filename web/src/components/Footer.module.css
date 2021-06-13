@@ -1,9 +1,16 @@
-.footer {
+ .footer {
    width: 100%;
    background: #CC9933;
    color: #fff;
+   text-align: center;
+   height: 60px;
 }
 
+.footer p {
+   max-width: 635px;
+   padding: 15px 10px;
+}
+/*
 .footer h3 {
    font-size: 1.125rem;
 }
@@ -38,4 +45,4 @@
       flex-direction: column;
       gap: 20px;
    }
-}
+} */

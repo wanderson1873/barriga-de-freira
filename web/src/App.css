@@ -5,7 +5,7 @@
 }
 
 body {
-  min-height: calc(80 + 120vh);
+  min-height: calc(100vh + 60px);
   background: linear-gradient(180deg, #14120D 0%, rgba(24, 19, 9, 0.9) 64.03%) no-repeat;
   color: #FFF;
   --type-first: "Walter Turncoat", sans-serif;

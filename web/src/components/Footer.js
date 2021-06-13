@@ -4,7 +4,7 @@ import styles from './Footer.module.css';
 const Footer = () => {
    return (
       <footer className={styles.footer}> 
-         <div className={styles.containerFooter}>
+         {/* <div className={styles.containerFooter}>
             <div className={styles.info}>
                <div>
                   <h3 className="title-footer">Contactos...</h3>
@@ -25,12 +25,11 @@ const Footer = () => {
                <p>
                   Barriga de Freira By <a href="https://www.instagram.com/carnes_do_convento/" rel="noreferrer" target="_blank">Carnes do Convento</a>
                </p>
-
-               <p>
-                  By <a href="https://www.linkedin.com/in/wanderson1873/" target="_blank" rel="noreferrer">Wanderson O.</a> 
-               </p>
             </div>
-         </div>
+         </div> */}
+         <p>
+            Barriga de Freira By <a href="https://www.instagram.com/carnes_do_convento/" rel="noreferrer" target="_blank">Carnes do Convento</a>
+         </p>
       </footer>
    )
 }
