@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: calc(100vh + 60px);
+  background: linear-gradient(180deg, #14120D 0%, rgba(24, 19, 9, 0.9) 64.03%) no-repeat;
+  color: #FFF;
+  --type-first: "Walter Turncoat", sans-serif;
+  font-family: var(--type-first);
+  font-size: 1.125rem;
+  letter-spacing: 0.04rem;
+}
+
+h1, h2, h3 {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  margin: 0
+}
+
+ul, li {
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+.container {
+  max-width: 635px;
+  padding: 25px 10px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+.container h1 {
+  margin-bottom: 1rem;
+}
+
+.container .title {
+  text-transform: uppercase;
+  font-weight: 1.5rem;
+  margin: 1rem 0;
+}
+
+.container ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.container ul li span {
+  display: block;
+  font-size: 0.8rem;
+  color: rgb(238, 234, 234);
+
+}
+
+.container ul li.name::before {
+  content: "-";
+  margin-right: 5px;
+  display: inline-block;
+}
