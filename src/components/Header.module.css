@@ -25,7 +25,6 @@
    letter-spacing: 0.1em;
    
    transition: 0.5s;
-   opacity: 60%;
 }
 
 .nav a.active {
@@ -36,6 +35,5 @@
 @media (max-width: 530px) {
    .logo {
       display: none;
-
    }
 }
