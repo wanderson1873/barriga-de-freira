@@ -579,7 +579,6 @@ const Bebidas = () => {
                Aperitivos e Espirituosas...<br/>
                Moscatel de Setúbal
             </h2>
-            <h2 className="title"></h2>
 
             <ul>
                <li className="name">

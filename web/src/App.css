@@ -5,7 +5,7 @@
 }
 
 body {
-  min-height: 100vh;
+  min-height: calc(80 + 120vh);
   background: linear-gradient(180deg, #14120D 0%, rgba(24, 19, 9, 0.9) 64.03%) no-repeat;
   color: #FFF;
   --type-first: "Walter Turncoat", sans-serif;
@@ -15,7 +15,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   text-transform: uppercase;
   font-weight: 400;
   margin: 0
@@ -28,13 +28,6 @@ ul, li {
 img {
   display: block;
   max-width: 100%;
-}
-
-button, input {
-  display: block;
-  font-size: 1rem;
-  font-family: var(--type-first);
-  color: #333;
 }
 
 a {
