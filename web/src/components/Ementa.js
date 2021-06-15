@@ -83,14 +83,14 @@ const Ementa = () => {
                <li className="name">
                   Queijo fresco, alface, tomate e manjericão
                </li>
-               <li className="price">2.9</li>
+               <li className="price">3.5</li>
             </ul>
 
             <ul>
                <li className="name">
                   Salmão fumado, queijo creme e rúcula
                </li>
-               <li className="price">3.5</li>
+               <li className="price">4.5</li>
             </ul>
          </div>
 
@@ -137,13 +137,6 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Rissol de Carne
-               </li>
-               <li className="price">1.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Rissol de Berbigão
                </li>
                <li className="price">1.5</li>
             </ul>
@@ -203,9 +196,16 @@ const Ementa = () => {
             <h2 className="title">Para Começar...</h2>
             <ul>
                <li className="name">
-                  Seleção de Pães, manteiga e Azeite
+                  Pão
                </li>
-               <li className="price">3.5</li>
+               <li className="price">1.5</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+               Couvert (Azeitonas,Azeite e Manteiga)
+               </li>
+               <li className="price">3.0</li>
             </ul>
 
             <ul>
@@ -219,42 +219,35 @@ const Ementa = () => {
                <li className="name">
                   Queijo Amanteigado
                </li>
-               <li className="price">3.75</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Painha de Porco Preto Alentejano
-               </li>
-               <li className="price">4.0</li>
+               <li className="price">4.5</li>
             </ul>
 
             <ul>
                <li className="name">
                   Presunto Ibérico
                </li>
-               <li className="price">4.0</li>
+               <li className="price">8.0</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Presunto 5js (70grs)
+                  Presunto 5J (70grs)
                </li>
                <li className="price">25.0</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Tábua Ibérica de Queijos
+                  Queijo seco
                </li>
-               <li className="price">9.0</li>
+               <li className="price">4.5</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Tábua Ibérica de Enchidos
+                  Seleção de Enchidos de Porco Preto
                </li>
-               <li className="price">9.0</li>
+               <li className="price">6.0</li>
             </ul>
 
             <ul>
@@ -275,21 +268,6 @@ const Ementa = () => {
 
          <div>
             <h2 className="title">Saladas...</h2>
-            <ul>
-               <li className="name">
-                  Penne Fredo e Caldo
-                  <span>Cebola, Curgete, Beringela, Espargos, Tomate Cherry, Molho de Tomate, Pesto, Manjericão e Parmesão</span>
-               </li>
-               <li className="price">11.0</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Capresi
-                  <span>Tomate, Manjericão, Mozzarella, Azeite, Flor de Sal</span>
-               </li>
-               <li className="price">8.5</li>
-            </ul>
 
             <ul>
                <li className="name">
@@ -306,13 +284,21 @@ const Ementa = () => {
                </li>
                <li className="price">9.0</li>
             </ul>
+
+            <ul>
+               <li className="name">
+                  Salada Capresi
+                  <span>Tomate, Manjericão, Mozzarella, Azeite, Flor de Sal</span>
+               </li>
+               <li className="price">8.5</li>
+            </ul>
          </div>
 
          <div>
             <h2 className="title">Bowls...</h2>
             <ul>
                <li className="name">
-                  Meditterânica
+                  Meditterânea
                   <span>Quinoa, Abacate, Espinafres, Salmão, Cenoura e Sementes de Sésamo</span>
                </li>
                <li className="price">11.0</li>
@@ -362,40 +348,34 @@ const Ementa = () => {
                <li className="price">9.0</li>
             </ul>
 
+         </div>
+
+         <div>
+            <h2 className="title">Pregos em Bolo de Caco...</h2>
             <ul>
                <li className="name">
-                  Posta Grelhada
-                  <span>150 gr de pesca do dia e 1 acompanhamento à escolha</span>
+                  Prego de Fraldinha
                </li>
-               <li className="price">10.0</li>
+               <li className="price">7.0</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Prego de Entrecote
+               </li>
+               <li className="price">6.5</li>
             </ul>
             
          </div>
 
          <div>
-            <h2 className="title">Do Talho...</h2>
+            <h2 className="title">Do Talho Das Carnes do Convento...</h2>
             <ul>
                <li className="name">
                   Carpaccio de Angus
                   <span>Rúcula, Alcaparras, Azeite, Limão, Parmesão e Flor de Sal</span>
                </li>
                <li className="price">9.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Bife Tártaro
-                  <span>Cebola, Alcaparras, Cornichons, Ovo, Salsa e Flor de Sal</span>
-               </li>
-               <li className="price">15.0</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Posta da fraldinha
-                  <span>300g de carne e 2 acompanhamentos à escolha</span>
-               </li>
-               <li className="price">18.0</li>
             </ul>
 
             <ul>
@@ -416,59 +396,49 @@ const Ementa = () => {
 
             <ul>
                <li className="name">
-                  Burguer Porco
-                  <span>180gr Porco Preto, Rúcula, Tomate, Pimentão, Piso de Coentros, em Brioche de Cebola</span>
+                  Posta de Entrecote
+                  <span>300g de carne e 2 acompanhamentos à escolha</span>
                </li>
-               <li className="price">10.0</li>
+               <li className="price">16.0</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Trilogia
-                  <span>mini burguers</span>
+                  Vazia Maturada
+                  <span>300 grs de rubia galega com 90 dias de maturação e 2 acompanhamentos à escolha</span>
                </li>
-               <li className="price">14.0</li>
-            </ul>
-            
-         </div>
-
-         <div>
-            <h2 className="title">Pregos em Bolo de Caco...</h2>
-            <ul>
-               <li className="name">
-                  Prego do Lombo de Novilho
-               </li>
-               <li className="price">6.5</li>
+               <li className="price">19.5</li>
             </ul>
 
             <ul>
                <li className="name">
-                Prego de Wagyu
+                  Posta da fraldinha
+                  <span>300g de carne e 2 acompanhamentos à escolha</span>
                </li>
-               <li className="price">13.0</li>
+               <li className="price">18.0</li>
             </ul>
 
-            <ul>
-               <li className="name">
-                  Prego de Atum
-               </li>
-               <li className="price">8.5</li>
-            </ul>
-            
          </div>
 
          <div>
             <h2 className="title">Acompanhamentos...</h2>
             <ul>
                <li className="name">
-                  Batata frita trufada
+                  Puré de Batata Doce
+               </li>
+               <li className="price">3.5</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Batata Frita Trufada
                </li>
                <li className="price">2.5</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Salada mista
+                  Salada Mista
                   <span>Alface, Cebola roxa, Rúcula, Pepino, Rebentos de Coentros, Tomate e Cenoura</span>
                </li>
                <li className="price">4.0</li>
@@ -483,7 +453,6 @@ const Ementa = () => {
             </ul>
             
          </div>
-
 
       </div>
    )
