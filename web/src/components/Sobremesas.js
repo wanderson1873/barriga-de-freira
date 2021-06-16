@@ -16,9 +16,9 @@ const Sobremesas = () => {
 
             <ul>
                <li className="name">
-                  Barriga de Freira
+                  Barriga de Freira na Lata
                </li>
-               <li className="price">1.7</li>
+               <li className="price">4.5</li>
             </ul>
 
             <ul>
@@ -30,7 +30,7 @@ const Sobremesas = () => {
 
             <ul>
                <li className="name">
-                  Tprta de Azeitão
+                  Torta de Azeitão
                </li>
                <li className="price">1.8</li>
             </ul>
@@ -67,7 +67,7 @@ const Sobremesas = () => {
                <li className="name">
                   Cheesecake de Moscatel e Laranja
                </li>
-               <li className="price">3.0</li>
+               <li className="price">1.5</li>
             </ul>
 
             <ul>
@@ -81,12 +81,19 @@ const Sobremesas = () => {
                <li className="name">
                   Macarons
                </li>
-               <li className="price">1.7</li>
+               <li className="price">1.5</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Gelados (Carta)
+                  Arroz Doce
+               </li>
+               <li className="price">2.9</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                   Gelados Haagen Dazs (Carta)
                </li>
                <li className="price"></li>
             </ul>
