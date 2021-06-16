@@ -144,9 +144,9 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Água sem Gás 1l
+                  Água sem Gás 0.5L
                </li>
-               <li className="price">2.5</li>
+               <li className="price">2.0</li>
             </ul>
 
             <ul>
@@ -199,7 +199,7 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Cerveja Heineken 0,25l
+                  Cerveja Heineken 0,25L
                </li>
                <li className="price">2.0</li>
             </ul>
@@ -218,21 +218,21 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Espumante
+                  Espumante 1.4L
                </li>
                <li className="price">14.0</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Branca
+                  Branca 1.4L
                </li>
                <li className="price">13.0</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Tinta
+                  Tinta 1.4L
                </li>
                <li className="price">12.0</li>
             </ul>
@@ -279,14 +279,7 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Periquita
-               </li>
-               <li className="price">10.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Camarate BS
+                  JMF Camarate BS
                </li>
                <li className="price">12.0</li>
             </ul>
@@ -295,7 +288,6 @@ const Bebidas = () => {
 
 
          <div>
-
 
             <h2 className="title">Vinhos Rosé...</h2>
 
@@ -315,7 +307,7 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Ermelinda Pinot
+                  Ermelinda Pinot Noir Merlot
                </li>
                <li className="price">20.0</li>
             </ul>
@@ -370,23 +362,32 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Periquita
+                  Leo D'Honor
                </li>
-               <li className="price">10.5</li>
+               <li className="price">70.0</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Ermelinda Grande Reserva
+               </li>
+               <li className="price">39.0</li>
             </ul>
 
             <ul>
                <li className="name">
                   Periquita Reserva
                </li>
-               <li className="price">16.0</li>
+               <li className="price">12.0</li>
             </ul>
+
+            <br/>
 
             <ul>
                <li className="name">
-                  Leo D'Honor
+                  Vinho Copo
                </li>
-               <li className="price">70.0</li>
+               <li className="price">3.5</li>
             </ul>
 
          </div>
@@ -575,97 +576,6 @@ const Bebidas = () => {
          </div>
 
          <div>
-            <h2 className="title">
-               Aperitivos e Espirituosas...<br/>
-               Moscatel de Setúbal
-            </h2>
-
-            <ul>
-               <li className="name">
-                  Ermelinda de Freitas
-               </li>
-               <li className="price">2.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Bacalhoa
-               </li>
-               <li className="price">2.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Jm fonseca
-               </li>
-               <li className="price">2.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Ermelinda de Freitas Colheita Tardia Branco
-               </li>
-               <li className="price">6.0</li>
-            </ul>
-
-            <h2 className="title">Moscatel Roxo</h2>
-
-            <ul>
-               <li className="name">
-                  Bacalhoa 5 anos
-               </li>
-               <li className="price">5.0</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  JM Fonseca DSF Coleção Privada
-               </li>
-               <li className="price">8.0</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Ermelinda de Freitas Superior
-               </li>
-               <li className="price">10.0</li>
-            </ul>
-
-            <br/>
-
-            <ul>
-               <li className="name">
-                  Porto Tawn
-               </li>
-               <li className="price">3.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Porto Ruby
-               </li>
-               <li className="price">3.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Porto LBV
-               </li>
-               <li className="price">6.0</li>
-            </ul>
-
-            <br/>
-
-            <ul>
-               <li className="name">
-                  Martini Bianco e Rosso
-               </li>
-               <li className="price">3.5</li>
-            </ul>
-
-         </div>
-
-         <div>
             <h2 className="title">Licores...</h2>
 
             <ul>
@@ -755,13 +665,6 @@ const Bebidas = () => {
                   Balvenie 12 anos
                </li>
                <li className="price">15.0</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Baileys
-               </li>
-               <li className="price">5.0</li>
             </ul>
 
          </div>
@@ -878,7 +781,96 @@ const Bebidas = () => {
 
          </div>
 
-         
+         <div>
+            <h2 className="title">
+               Aperitivos e Espirituosas...<br/>
+               Moscatel de Setúbal
+            </h2>
+
+            <ul>
+               <li className="name">
+                  Ermelinda de Freitas
+               </li>
+               <li className="price">2.5</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Bacalhoa
+               </li>
+               <li className="price">2.5</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Jm fonseca
+               </li>
+               <li className="price">2.5</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Ermelinda de Freitas Colheita Tardia Branco
+               </li>
+               <li className="price">6.0</li>
+            </ul>
+
+            <h2 className="title">Moscatel Roxo</h2>
+
+            <ul>
+               <li className="name">
+                  Bacalhoa 5 anos
+               </li>
+               <li className="price">5.0</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  JM Fonseca DSF Coleção Privada
+               </li>
+               <li className="price">8.0</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Ermelinda de Freitas Superior
+               </li>
+               <li className="price">10.0</li>
+            </ul>
+
+            <br/>
+
+            <ul>
+               <li className="name">
+                  Porto Tawn
+               </li>
+               <li className="price">3.5</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Porto Ruby
+               </li>
+               <li className="price">3.5</li>
+            </ul>
+
+            <ul>
+               <li className="name">
+                  Porto LBV
+               </li>
+               <li className="price">6.0</li>
+            </ul>
+
+            <br/>
+
+            <ul>
+               <li className="name">
+                  Martini Bianco e Rosso
+               </li>
+               <li className="price">3.5</li>
+            </ul>
+
+         </div>
 
       </div>
    )
