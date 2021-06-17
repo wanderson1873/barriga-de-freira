@@ -11,7 +11,7 @@ const Ementa = () => {
          Pão da Avó <br/>
          Croissants <br/>
          Roll n' Ball <br/>
-         Bagel <br/>
+         <br/>
          </p>
          <div>
             <h2 className="title">Como?...</h2>
@@ -279,7 +279,7 @@ const Ementa = () => {
 
             <ul>
                <li className="name">
-                  Salada Ceser
+                  Salada Céser
                   <span>Peito de Frango, Alface Romana, Molho Cesar e Queijo Parmesão</span>
                </li>
                <li className="price">9.0</li>
@@ -327,7 +327,7 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Tártaro
-                  <span>Pei xo do dia, cebola roxa, manga, cebolinho, soja e sésamo</span>
+                  <span>Peixe do dia, Cebola Roxa, Manga, Cebolinho, Soja e Sésamo</span>
                </li>
                <li className="price">10.0</li>
             </ul>
@@ -335,7 +335,7 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Ceviche
-                  <span>Cebola Roxa, Tomate, Malagueta, Coentros, Batata Doce, Milho Frito, Leite de Tigre</span>
+                  <span>Peixe do dia, Cebola Roxa, Tomate, Malagueta, Coentros, Batata Doce, Milho Frito, Leite de Tigre</span>
                </li>
                <li className="price">11.0</li>
             </ul>
