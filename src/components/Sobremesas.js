@@ -67,7 +67,7 @@ const Sobremesas = () => {
                <li className="name">
                   Cheesecake de Moscatel e Laranja
                </li>
-               <li className="price">1.5</li>
+               <li className="price">3.0</li>
             </ul>
 
             <ul>
