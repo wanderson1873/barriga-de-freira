@@ -1,9 +1,8 @@
 import React from 'react'
-import styles from './Ementa.module.css';
 
 const Ementa = () => {
    return (
-      <div className={styles.ementa}>
+      <div>
          <h1>DA PADARIA À ESCOLHA...</h1>
          <p>
          Baguette com sementes <br/>
@@ -368,6 +367,8 @@ const Ementa = () => {
             
          </div>
 
+         <br/><br/>
+
          <div>
             <h2 className="title"></h2>
             <ul>
@@ -384,6 +385,8 @@ const Ementa = () => {
                <li className="price">11.0</li>
             </ul>
          </div>
+
+         <br/><br/>
 
          <div>
             <h2 className="title">Do Talho Das Carnes do Convento...</h2>

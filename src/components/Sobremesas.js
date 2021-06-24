@@ -1,9 +1,8 @@
 import React from 'react'
-import styles from './Bebidas.module.css';
 
 const Sobremesas = () => {
    return (
-      <div className={styles.sobremesas}>
+      <div>
          <h1>Para Adoçar...</h1>
 
          <div>
