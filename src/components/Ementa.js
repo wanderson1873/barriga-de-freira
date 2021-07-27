@@ -370,7 +370,6 @@ const Ementa = () => {
          <br/><br/>
 
          <div>
-            <h2 className="title"></h2>
             <ul>
                <li className="name">
                   Conservas Belmar (À escolha)
