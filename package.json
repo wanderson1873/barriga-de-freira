@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/wanderson1873/barriga-de-freira.git",
+  "author": "Wanderson Oliveira <wanderson1873@live.com>",
+  "license": "MIT"
 }
