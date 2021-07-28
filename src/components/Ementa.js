@@ -367,9 +367,8 @@ const Ementa = () => {
             
          </div>
 
-         <br/><br/>
-
          <div>
+            <h2 className="title">Conservas...</h2>
             <ul>
                <li className="name">
                   Conservas Belmar (À escolha)
@@ -384,8 +383,6 @@ const Ementa = () => {
                <li className="price">11.0</li>
             </ul>
          </div>
-
-         <br/><br/>
 
          <div>
             <h2 className="title">Do Talho Das Carnes do Convento...</h2>
