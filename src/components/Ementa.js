@@ -342,7 +342,7 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Tiradito
-                  <span>Cebola Roxa, Pimentos. Laranja, Limão e Coentros</span>
+                  <span>Peixe do dia, Cebola Roxa, Pimentos. Laranja, Limão e Coentros</span>
                </li>
                <li className="price">9.0</li>
             </ul>
