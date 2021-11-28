@@ -377,7 +377,7 @@ const Bebidas = () => {
                <li className="name">
                   Periquita Reserva
                </li>
-               <li className="price">12.0</li>
+               <li className="price">16.0</li>
             </ul>
 
             <br/>
