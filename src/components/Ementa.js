@@ -3,7 +3,7 @@ import React from 'react'
 const Ementa = () => {
    return (
       <div>
-         <h1>DA PADARIA À ESCOLHA...</h1>
+         <h1>DA PADARIA À ESCOLHA....</h1>
          <p>
          Baguette com sementes <br/>
          Integral <br/>
