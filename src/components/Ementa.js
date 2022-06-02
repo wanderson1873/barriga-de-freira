@@ -381,7 +381,7 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Burguer Maturado
-                  <span>180gr de Rubia Galega Maturada, Queijo Cheddar, Cebola Caramelizada, Bacon, Alface Tomate, Pickles de pepino, em Brioche de Sésamo (Acompanha Batatas Fritas)</span>
+                  <span>180gr de Rubia Galega Maturada, Queijo Cheddar, Cebola Caramelizada, Bacon, Alface Tomate, Pickles de pepino, em Brioche de Sésamo (Acompanhado Batatas Fritas)</span>
                </li>
                <li className="price">11.0</li>
             </ul>
@@ -389,7 +389,7 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Burguer Vegan
-                  <span>Cogumelos Portobello, Curgete, Beringela, Tomate, Pesto, em Brioche de Beterraba (Acompanha Batatas Fritas)</span>
+                  <span>Cogumelos Portobello, Curgete, Beringela, Tomate, Pesto, em Brioche de Beterraba (Acompanhado Batatas Fritas)</span>
                </li>
                <li className="price">8.0</li>
             </ul>
