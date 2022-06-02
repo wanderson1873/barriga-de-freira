@@ -45,13 +45,6 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Café Tónico
-               </li>
-               <li className="price">3.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
                   Extra Natas
                </li>
                <li className="price">0.5</li>
@@ -101,27 +94,6 @@ const Bebidas = () => {
                <li className="price">2.5</li>
             </ul>
 
-            <ul>
-               <li className="name">
-                  Sumo do dia
-               </li>
-               <li className="price">3.0</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Detox do dia
-               </li>
-               <li className="price">4.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Smoothie
-               </li>
-               <li className="price">4.5</li>
-            </ul>
-
          </div>
 
          <div>
@@ -150,14 +122,14 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Água com Gás 0,25l (Pedras)
+                  Água com Gás 0,25l
                </li>
                <li className="price">1.5</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Água com Gás 0,75L (Perrier)
+                  Água com Gás 0,75L
                </li>
                <li className="price">3.5</li>
             </ul>
@@ -171,7 +143,7 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Compal Néctar
+                  Compal Pêssego/Frutos Vermelhos
                </li>
                <li className="price">1.7</li>
             </ul>
@@ -190,7 +162,15 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-               Imperial Franciscana
+               Imperial Franciscana 0,30l
+
+               </li>
+               <li className="price">2.5</li>
+            </ul>
+   
+            <ul>
+               <li className="name">
+               Imperial Heineken 0,25l
 
                </li>
                <li className="price">2.5</li>
@@ -198,7 +178,7 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Cerveja Heineken 0,25L
+                  Cerveja Heineken 0,25l
                </li>
                <li className="price">2.0</li>
             </ul>
