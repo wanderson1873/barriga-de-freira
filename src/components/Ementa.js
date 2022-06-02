@@ -7,9 +7,7 @@ const Ementa = () => {
          <p>
          Baguette com sementes <br/>
          Integral <br/>
-         Pão da Avó <br/>
          Croissants <br/>
-         Roll n' Ball <br/>
          <br/>
          </p>
          <div>
@@ -182,13 +180,6 @@ const Ementa = () => {
                <li className="price">1.5</li>
             </ul>
 
-            <ul>
-               <li className="name">
-                  Empada de Sardinha com Queijo de Azeitão
-               </li>
-               <li className="price">1.9</li>
-            </ul>
-
          </div>
 
          <div>
@@ -251,13 +242,6 @@ const Ementa = () => {
 
             <ul>
                <li className="name">
-                  Taco de Pesca do Dia (2 unid)
-               </li>
-               <li className="price">14.0</li>
-            </ul>
-
-            <ul>
-               <li className="name">
                   Sopa do dia
                </li>
                <li className="price">1.9</li>
@@ -311,14 +295,6 @@ const Ementa = () => {
                <li className="price">10.0</li>
             </ul>
 
-            <ul>
-               <li className="name">
-                  Smoothie
-                  <span>Granola, Iogurte, Banana, Morango ou Manga, Sementes</span>
-               </li>
-               <li className="price">12.5</li>
-            </ul>
-
          </div>
 
          <div>
@@ -345,6 +321,14 @@ const Ementa = () => {
                   <span>Peixe do dia, Cebola Roxa, Pimentos. Laranja, Limão e Coentros</span>
                </li>
                <li className="price">9.0</li>
+            </ul>
+   
+            <ul>
+               <li className="name">
+                  Taco de Pesca do Dia (2 unid)
+                  <span>Peixe do dia, Cebola Roxa, Abacate, Pimentos, Cebolinho, Soja e Sésamo</span>
+               </li>
+               <li className="price">14.0</li>
             </ul>
 
          </div>
@@ -397,7 +381,7 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Burguer Maturado
-                  <span>180gr de Rubia Galega Maturada, Queijo Cheddar, Cebola Caramelizada, Bacon, Alface Tomate, Pickles de pepino, em Brioche de Sésamo</span>
+                  <span>180gr de Rubia Galega Maturada, Queijo Cheddar, Cebola Caramelizada, Bacon, Alface Tomate, Pickles de pepino, em Brioche de Sésamo (Acompanha Batatas Fritas)</span>
                </li>
                <li className="price">11.0</li>
             </ul>
@@ -405,7 +389,7 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Burguer Vegan
-                  <span>Cogumelos Portobello, Curgete, Beringela, Tomate, Pesto, em Bricho de Beterraba</span>
+                  <span>Cogumelos Portobello, Curgete, Beringela, Tomate, Pesto, em Brioche de Beterraba (Acompanha Batatas Fritas)</span>
                </li>
                <li className="price">8.0</li>
             </ul>
