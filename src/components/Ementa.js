@@ -446,7 +446,7 @@ const Ementa = () => {
             <ul>
                <li className="name">
                   Legumes grelhados
-                  <span>Tomate Confitado, Beringela, Curgete, Cogumelos e Espargos</span>
+                  <span>Tomate Confitado, Beringela, Curgete, Cogumelos, Espargos e Cenouras</span>
                </li>
                <li className="price">4.0</li>
             </ul>
