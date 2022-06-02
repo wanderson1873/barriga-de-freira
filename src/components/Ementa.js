@@ -417,6 +417,46 @@ const Ementa = () => {
                </li>
                <li className="price">18.0</li>
             </ul>
+   
+            <ul>
+               <li className="name">
+                  Picanha (América do Sul)
+                  <span>250g de carne e 2 acompanhamentos à escolha</span>
+               </li>
+               <li className="price">17.0</li>
+            </ul>
+   
+            <ul>
+               <li className="name">
+                  Maminha (América do Sul)
+                  <span>250g de carne e 2 acompanhamentos à escolha</span>
+               </li>
+               <li className="price">15.0</li>
+            </ul>
+   
+            <ul>
+               <li className="name">
+                 Plumas de Porco Preto
+                  <span>250g de carne e 2 acompanhamentos à escolha</span>
+               </li>
+               <li className="price">16.5</li>
+            </ul>
+   
+            <ul>
+               <li className="name">
+                 Posta Mirandesa
+                  <span>300g de carne e 2 acompanhamentos à escolha</span>
+               </li>
+               <li className="price">18.0</li>
+            </ul>
+   
+            <ul>
+               <li className="name">
+                  Lombo do Brasil (Filet Mignon)
+                  <span>250g de carne e 2 acompanhamentos à escolha</span>
+               </li>
+               <li className="price">18.0</li>
+            </ul>
 
          </div>
 
