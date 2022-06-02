@@ -19,14 +19,7 @@ const Sobremesas = () => {
                </li>
                <li className="price">4.5</li>
             </ul>
-
-            <ul>
-               <li className="name">
-                  Ostra de Laranja
-               </li>
-               <li className="price">1.2</li>
-            </ul>
-
+    
             <ul>
                <li className="name">
                   Torta de Azeitão
@@ -75,19 +68,12 @@ const Sobremesas = () => {
                </li>
                <li className="price">4.0</li>
             </ul>
-
+      
             <ul>
                <li className="name">
-                  Macarons
+                 Sobremesa do Dia
                </li>
-               <li className="price">1.5</li>
-            </ul>
-
-            <ul>
-               <li className="name">
-                  Arroz Doce
-               </li>
-               <li className="price">2.9</li>
+               <li className="price">3.2</li>
             </ul>
 
             <ul>
