@@ -24,13 +24,6 @@ const Bebidas = () => {
 
             <ul>
                <li className="name">
-                  Mocha Frappe
-               </li>
-               <li className="price">3.0</li>
-            </ul>
-
-            <ul>
-               <li className="name">
                   Iced Coffee
                </li>
                <li className="price">2.5</li>
