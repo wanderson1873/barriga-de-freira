@@ -8,6 +8,13 @@ const Sobremesas = () => {
          <div>
             <ul>
                <li className="name">
+                  Barriga de Freira
+               </li>
+               <li className="price">1.7</li>
+            </ul>
+      
+            <ul>
+               <li className="name">
                   Pastel de Nata
                </li>
                <li className="price">1.4</li>
@@ -39,6 +46,13 @@ const Sobremesas = () => {
                   Bolo de Fatia
                </li>
                <li className="price">2.9</li>
+            </ul>
+      
+              <ul>
+               <li className="name">
+                  Abacaxi
+               </li>
+               <li className="price">4,5</li>
             </ul>
 
             <ul>
