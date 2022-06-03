@@ -6,7 +6,7 @@ const Ementa = () => {
          <h1>DA PADARIA À ESCOLHA....</h1>
          <p>
          Baguette com sementes <br/>
-         Integral <br/>
+         Baguette Integral <br/>
          Croissants <br/>
          <br/>
          </p>
