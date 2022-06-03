@@ -43,16 +43,23 @@ const Sobremesas = () => {
 
             <ul>
                <li className="name">
-                  Queijada de Laranja
+                  Manga
                </li>
-               <li className="price">1.5</li>
+               <li className="price">4,5</li>
             </ul>
 
             <ul>
                <li className="name">
-                  Laranjinha Doce
+                  Laranja
                </li>
-               <li className="price">1.0</li>
+               <li className="price">1.9</li>
+            </ul>
+      
+            <ul>
+               <li className="name">
+                  Maçâ
+               </li>
+               <li className="price">1.9</li>
             </ul>
 
             <ul>
