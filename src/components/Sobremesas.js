@@ -99,7 +99,7 @@ const Sobremesas = () => {
 
             <ul>
                <li className="name">
-                   Gelados Haagen Dazs (Carta)
+                   Gelados GULATO (Carta)
                </li>
                <li className="price"></li>
             </ul>
