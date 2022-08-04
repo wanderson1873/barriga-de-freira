@@ -359,7 +359,7 @@ const Bebidas = () => {
                <li className="name">
                   Vinho Copo
                </li>
-               <li className="price">3.5</li>
+               <li className="price">4</li>
             </ul>
 
          </div>
