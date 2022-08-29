@@ -235,7 +235,7 @@ const Ementa = () => {
 
             <ul>
                <li className="name">
-                  Seleção de Enchidos de Porco Preto
+                 Painho Alentejano
                </li>
                <li className="price">6.0</li>
             </ul>
