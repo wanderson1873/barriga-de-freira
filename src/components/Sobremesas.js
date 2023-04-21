@@ -85,7 +85,7 @@ const Sobremesas = () => {
 
             <ul>
                <li className="name">
-                  Doce de Lata
+                  Doce da Lata
                </li>
                <li className="price">4.0</li>
             </ul>
@@ -94,7 +94,14 @@ const Sobremesas = () => {
                <li className="name">
                  Sobremesa do Dia
                </li>
-               <li className="price">3.2</li>
+               <li className="price">4.3</li>
+            </ul>
+      
+       <ul>
+               <li className="name">
+                 Petit Gateau
+               </li>
+               <li className="price">4.3</li>
             </ul>
 
             <ul>
