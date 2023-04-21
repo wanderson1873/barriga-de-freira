@@ -262,7 +262,7 @@ const Ementa = () => {
 
             <ul>
                <li className="name">
-                  Salada Céser
+                  Salada César
                   <span>Peito de Frango, Alface Romana, Molho Cesar e Queijo Parmesão</span>
                </li>
                <li className="price">9.0</li>
